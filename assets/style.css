@@ -1,8 +1,19 @@
 body {
     background-color: #a3e3bf;
+    font-family: sans-serif
 }
 
 footer {
     background-color: #577e68;
     color: beige;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
 }

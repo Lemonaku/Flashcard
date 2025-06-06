@@ -10,7 +10,8 @@ body {
 }
 
 #container {
-    display:flex ;
+    display: flex;
+     flex-wrap: wrap;
 }
 
 .cartao {

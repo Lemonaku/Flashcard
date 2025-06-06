@@ -17,25 +17,37 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'Qual é a unidades básica que constitue toda a matéria?',
+    'Os átomos, partícula pequena que constitue toda matéria, tudo que tem massa e ocupa espaço.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'O que é a tabela periódica?',
+    'A Tabela Periódica é uma ferramenta que tem por objetivo organizar e agrupar todos os elementos químicos já descobertos pelo ser humano (118 elementos).'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'O que é um elemento químico?',
+    'Um elemento químico é um conjunto de átomos que possuem o mesmo número atômico, sendo os constituintes básicos de todas as substâncias.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Física',
+    'O que são planetas?',
+    'São corpos celestes que orbitam uma estrela, o Sol por exemplo, com massa suficiente para que a sua própria gravidade possibilite que assumam uma forma arredondada.'
+)
+
+criaCartao(
+    'Física',
+    'Para que serve um termômetro?',
+    'Instrumento que mede a temperatura do que esta sofrendo incidência.'
+)
+
+criaCartao(
+    'Física',
+    'O que é resistência?',
+    'Refere-se à capacidade de um corpo se opor a uma força ou a um movimento.'
 )

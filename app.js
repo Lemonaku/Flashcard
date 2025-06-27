@@ -5,12 +5,12 @@ function criaCartao(categoria, pergunta, resposta) {
 
     cartao.innerHTML = `
         <div class="cartao__conteudo">
-                                <h3>Biologia</h3>
+                                <h3>${categoria}</h3>
                                 <div class="cartao__conteudo__pergunta">
-                                    <p>O que é a biologia?</p>   
+                                    <p>${pergunta}</p>   
                                 </div>
                                 <div class="cartao__conteudo__resposta">
-                                    <p>Biologia é a ciência que estuda a vida, como ela se relaciona entre os seres, como se mantém.</p>
+                                    <p>${resposta}</p>
                                 </div>
                         </div>
     `

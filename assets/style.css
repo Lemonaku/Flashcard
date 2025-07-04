@@ -15,6 +15,7 @@ body {
     justify-content: space-between;
     padding: 4rem;
     gap: 3rem;
+    flex-direction: column;
 }
 
 .cartao {

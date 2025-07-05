@@ -98,6 +98,12 @@ footer p {
 }
 
 @media (max-width: 560px) {
+
+    :root {
+    --text-color: #739881;
+    --card-front-color: #ddf0e5;
+    --card-back-color: #b9eecf;
+}
     
     body {
         background: #a3e3bf;

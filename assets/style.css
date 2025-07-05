@@ -99,10 +99,13 @@ footer p {
 
 @media (max-width: 560px) {
 
-    :root {
-    --text-color: #739881;
-    --card-front-color: #ddf0e5;
-    --card-back-color: #b9eecf;
+    #container {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem;
+    gap: 3rem;
+    flex-direction: row-reverse;
 }
     
     body {

@@ -10,12 +10,10 @@ body {
 }
 
 #container {
-    display: flex; 
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
     gap: 3rem;
-    flex-direction: column;
 }
 
 .cartao {
@@ -98,15 +96,6 @@ footer p {
 }
 
 @media (max-width: 560px) {
-
-    #container {
-    display: flex; 
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding: 4rem;
-    gap: 3rem;
-    flex-direction: row-reverse;
-}
     
     body {
         background: #a3e3bf;
